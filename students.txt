@@ -1,0 +1,6 @@
+101,Anjali,89
+102,Ravi,76
+103,Sneha,92
+104,Aryan,67
+105,Diya,84
+23,aani,34
